@@ -58,3 +58,4 @@ gem 'simple_form'
 gem 'cancan'
 gem "paperclip", "~> 6.0.0"
 gem 'dotenv-rails', groups: [:development]
+gem 'aws-sdk', '~> 3'
